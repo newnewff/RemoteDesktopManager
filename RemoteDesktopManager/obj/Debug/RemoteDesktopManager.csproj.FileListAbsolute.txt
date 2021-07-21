@@ -1,0 +1,15 @@
+F:\project\RemoteDesktopManager\RemoteDesktopManager\bin\Debug\RemoteDesktopManager.exe
+F:\project\RemoteDesktopManager\RemoteDesktopManager\bin\Debug\RemoteDesktopManager.pdb
+F:\project\RemoteDesktopManager\RemoteDesktopManager\bin\Debug\Interop.MSTSCLib.dll
+F:\project\RemoteDesktopManager\RemoteDesktopManager\bin\Debug\AxInterop.MSTSCLib.dll
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\Interop.MSTSCLib.dll
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\AxInterop.MSTSCLib.dll
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csproj.ResolveComReference.cache
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.Form1.resources
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.Properties.Resources.resources
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csproj.GenerateResource.cache
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csproj.CoreCompileInputs.cache
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.exe
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.pdb
+F:\project\RemoteDesktopManager\RemoteDesktopManager\bin\Debug\servicesInfo.xml
+F:\project\RemoteDesktopManager\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csprojAssemblyReference.cache
